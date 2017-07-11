@@ -5,3 +5,5 @@ public interface Sensor {
     void powerUp();
     void powerDown();
 }
+
+
